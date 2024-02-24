@@ -111,3 +111,21 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+#hero h4{
+    padding-bottom: 15px;
+}
+#hero h1{
+    /* padding-bottom: 15px; */
+    color: #088178;
+}
+#hero button{
+    background-image: url(./Images/button\ \(1\).png);
+    background-color: transparent;
+    color: #088178;
+    border: 0;
+    padding: 14px 80px 14px 65px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+}
